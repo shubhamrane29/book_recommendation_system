@@ -2,7 +2,7 @@
 
 This is a book recommendation system web application that provides recommendations based on user input. It offers two main pages: the home page and the recommendation page. The home page displays the top 50 books, while the recommendation page allows users to enter the name of a book and receive personalized recommendations.
 
-![image](https://github.com/shubhamrane29/book_recommendation_system/assets/102586176/2ba1a867-8951-4be2-8e3a-e0ce336c3414)
+![Untitled1](https://github.com/shubhamrane29/book_recommendation_system/assets/102586176/a86e9394-7a1d-4c24-8d1f-61a9e88d1bee)
 
 ### Features
 - Home page displaying the top 50 books.
@@ -22,5 +22,5 @@ The book recommendation system is built using the following technologies:
 ### Dataset
 The book dataset used in this project is obtained from Kaggle. It contains a collection of books with associated information such as titles, authors, ratings, and descriptions. The dataset is preprocessed and used for providing recommendations based on user input.
 
-![image](https://github.com/shubhamrane29/book_recommendation_system/assets/102586176/6537994b-ba8d-4014-b670-988663633a1a)
+![Untitled2](https://github.com/shubhamrane29/book_recommendation_system/assets/102586176/4ac4d7bb-926e-4508-8fa2-b5ef358782d0)
 
